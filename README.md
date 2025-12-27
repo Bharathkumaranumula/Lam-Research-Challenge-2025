@@ -1,3 +1,5 @@
+#About this fork
+#
 # Circuit Raja – Hardware Hustle: Lam Research Challenge 2025
 
 ## Overview
